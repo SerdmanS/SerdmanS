@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SerdmanS
 - 👀 I’m interested in Linux and open source software
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m was learning kotlin, now learning C
 - 💞️ I’m looking to collaborate on games and linux system management
 - 📫 How to reach me ...
 
